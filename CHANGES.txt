@@ -1,0 +1,10 @@
+--------------------
+PRDC_TMAESC
+T-Motor ALPHA ESC Telemetry Protocol Arduino library
+--------------------
+
+Release 1.0.0, 09.12.2021.
+
+- Initial release
+
+--------------------
