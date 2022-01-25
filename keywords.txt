@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PRDC_TMAESC KEYWORD1 PRDC_TMAESC
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init KEYWORD2
+update KEYWORD2
+set_poles KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PRDC_TMAESC_B1 LITERAL1
+PRDC_TMAESC_B2 LITERAL1
+PRDC_TMAESC_PACKET_SIZE LITERAL1
+PRDC_TMAESC_BAUD LITERAL1
