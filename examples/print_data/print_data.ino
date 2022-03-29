@@ -110,6 +110,6 @@ void blinkLED() {
   if((millis()-t_LED) > dt_LED) {
     t_LED = millis();
     s = !s;
-    digitalWrite(LED_BUILTIN, s);
+    digitalWrite(LED_PIN, s);
   }
 }
